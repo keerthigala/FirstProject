@@ -4,7 +4,7 @@ public class CalculatorNew {
     
         String firstName,lastName,email,phone;
         
-        firstName='Keer';
+        firstName='venu';
         lastName='Digital';
         email='keeru@gmail.com';
         phone='9390874382';
