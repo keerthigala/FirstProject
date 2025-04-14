@@ -1,7 +1,5 @@
-public class FirstClass {
+public with sharing class FirstClass {
     public FirstClass() {
-    }
-    public void sayHello(){
         System.debug('Hello world');
     }
 }

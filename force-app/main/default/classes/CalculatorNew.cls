@@ -1,10 +1,10 @@
-public class CalculatorApexClass
-{
-    public void record()
-    {
+public class CalculatorNew {
+    public CalculatorNew()
+     {
+    
         String firstName,lastName,email,phone;
         
-        firstName='Keerthi';
+        firstName='Keer';
         lastName='Digital';
         email='keeru@gmail.com';
         phone='9390874382';
@@ -13,3 +13,6 @@ public class CalculatorApexClass
     
 
 }
+
+ 
+    
